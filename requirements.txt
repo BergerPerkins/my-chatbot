@@ -1,2 +1,5 @@
 transformers
 streamlit
+langchain_openai
+langchain
+langchain_community
